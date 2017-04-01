@@ -1,0 +1,16 @@
+{% extends "basic.html" %}
+
+{% block title %}Login{% endblock %}
+
+{% block content %}
+
+{% if error%}
+    <h3>{{ error }}</h3>
+{% endif %}
+<form class="formContainer" action="{{ url_for('login')}}" method="post">
+    <span class="contentTitle">Login</span>
+    <input type="text" name="email" placeholder="Email address" required>
+    <input type="password" name="password" placeholder="Password" required>
+    <input type="submit" value="Login">
+</form>
+{% endblock %}

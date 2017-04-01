@@ -1,0 +1,71 @@
+*{
+    -webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
+    -moz-box-sizing: border-box;    /* Firefox, other Gecko */
+    box-sizing: border-box;         /* Opera/IE 8+ */
+    font-family: 'Open Sans', sans-serif;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #f3f3f3;
+    text-align: center;
+}
+#header{
+    width: 100%;
+    padding: 1em;
+
+    text-align: left;
+    background-color: #0089FF;
+    border-bottom: 1px solid black;
+}
+
+.appLogo{
+    font-size: 2em;
+}
+
+
+#container{
+    text-align: left;
+    width: 100%;
+    margin-bottom: 1em;
+    padding: 0.5em;
+}
+
+
+.contentTitle{
+    font-size: 1.5em;
+}
+
+.formContainer{
+    padding: 1em;
+    margin-left: 30%;
+    margin-right: 30%;
+
+    background-color: white;
+    border: 1px solid white;
+    border-radius: 3px;
+}
+
+input, textarea{
+    display: inline-block;
+    width: 100%;
+}
+
+#notesContainer{
+    text-align: center;
+}
+
+.noteContainer{
+    margin-top: 1em;
+    margin-left: 1em;
+    padding: 1em;
+    width: 30%;
+    display:inline-block;
+
+    text-align: left;
+    background-color: white;
+    border: 1px solid gray;
+    border-radius: 3px;
+    word-wrap: break-word;
+}
