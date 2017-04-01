@@ -1,0 +1,10 @@
+h1 {
+  font-family: 'Helvetica Neue', 'Arial', sans-serif;
+  font-weight: 600;
+  font-size: 6em;
+  color: gainsboro;
+}
+
+.search {
+  max-width: 400px;
+}

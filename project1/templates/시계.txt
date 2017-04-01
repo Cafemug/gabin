@@ -1,0 +1,8 @@
+<HTML>
+<HEAD>
+<TITLE>╠в╦╡ ╩Пют</TITLE>
+</HEAD>
+<BODY>
+<IMG SRC="figure.jpg">
+</BODY>
+</HTML>
