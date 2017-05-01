@@ -27,3 +27,9 @@
 
 ### 찾기는 노트목록들이 한 페이지에 다 보여지기 떄문에 Ctrl+F기능으로 할수 있다 판단하여 대체하였습니다.
 ### 날씨는 연동을 인터넷을 끊으면 연동이 되지않아 구현에 실패하였습니다.
+
+![]https://github.com/Cafemug/gabin/blob/master/%ED%8C%A8%ED%82%A4%EC%A7%95(%EB%B2%A0%EC%9D%B4%EC%A7%81).PNG)
+### electron을 이용하여 개발모드로 만들었습니다
+
+![](https://github.com/Cafemug/gabin/blob/master/%ED%8C%A8%ED%82%A4%EC%A7%95(%EB%B0%B0%ED%8F%AC).PNG)
+### electron-packager를 이용하여 패키지로 만들었습니다
